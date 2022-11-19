@@ -1,0 +1,11 @@
+id: dmtheme
+version: "1.0.0.0"
+openvk_version: 0
+enabled: 1
+metadata:
+    name:
+        _: "OpenVK [by Daniel Myslivets]"
+        en: "OpenVK [by Daniel Myslivets]"
+        ru: "OpenVK [by Daniel Myslivets]"
+    author: "Daniel Myslivets"
+    description: "OpenVK cute theme :3"
